@@ -1,6 +1,6 @@
 using System;
 
-namespace SmartSchool.WebAPI.Dtos
+namespace SmartSchool.V1.WebAPI.Dtos
 {
     public class ProfessorRegistrarDto
     {

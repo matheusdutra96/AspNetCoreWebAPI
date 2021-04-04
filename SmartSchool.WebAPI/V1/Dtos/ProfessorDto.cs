@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using SmartSchool.WebAPI.Models;
 
-namespace SmartSchool.WebAPI.Dtos
+namespace SmartSchool.V1.WebAPI.Dtos
 {
     public class ProfessorDto
     {
